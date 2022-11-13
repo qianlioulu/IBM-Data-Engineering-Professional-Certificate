@@ -32,15 +32,12 @@ There are 13 Courses in this Professional Certificate
 
 | Sr. No | Course                                                               |Status|
 |:------:|----------------------------------------------------------------------------|:--:|
-<<<<<<< HEAD
 | 01.     | [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering|✅|
 | 02.     | [Python for Data Science, AI & Development]| | 
 | 03.     | [Python Project for Data Engineering]| |
-=======
 | 01.     | [Introduction to Data Engineering]|ongoing|
 | 02.     | [Python for Data Science, AI & Development]| | 
 | 03.     | [Python Project for Data Engineering]||
->>>>>>> bbefa2fe3623ab5006c44b172d192169bad74ef1
 | 04.     | [Introduction to Relational Databases (RDBMS)]| |
 | 05.     | [Databases and SQL for Data Science with Python]| | 
 | 06.     | [Hands-on Introduction to Linux Commands and Shell Scripting]|
