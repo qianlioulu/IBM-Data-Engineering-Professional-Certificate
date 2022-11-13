@@ -1,11 +1,11 @@
-"# IBM-Data-Engineering-Professional-Certificate" 
+
 <p align="center">
  </a>
  <h1 align="center">IBM Data Engineering Professional Certificate</h1>
  <p align="center">
   IBM Professional Certificate
   <br />
-  <a href=https://github.com/BinariesGoalls/IBM-Data-Engineering-Professional-Certificate>Explore the repository»</strong></a>
+  <a href=https://github.com/qianlioulu/IBM-Data-Engineering-Professional-Certificate>Explore the repository»</strong></a>
   <br />
   <br />
  </p>
@@ -32,9 +32,9 @@ There are 13 Courses in this Professional Certificate
 
 | Sr. No | Course                                                               |Status|
 |:------:|----------------------------------------------------------------------------|:--:|
-| 01.     | [Introduction to Data Engineering](./Introduction%20to%20Data%20Engineering)|✅|
+| 01.     | [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering|✅|
 | 02.     | [Python for Data Science, AI & Development]| | 
-| 03.     | [Python Project for Data Engineering]|⏳|
+| 03.     | [Python Project for Data Engineering]| |
 | 04.     | [Introduction to Relational Databases (RDBMS)]| |
 | 05.     | [Databases and SQL for Data Science with Python]| | 
 | 06.     | [Hands-on Introduction to Linux Commands and Shell Scripting]|
