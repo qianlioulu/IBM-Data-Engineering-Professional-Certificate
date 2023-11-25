@@ -33,17 +33,17 @@ There are 13 Courses in this Professional Certificate
 | Sr. No | Course                                                               |Status|
 |:------:|----------------------------------------------------------------------------|:--:|
 | 01.     | [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering|✅|
-| 02.     | [Python for Data Science, AI & Development]| | 
-| 03.     | [Python Project for Data Engineering]| |
-| 01.     | [Introduction to Data Engineering]|ongoing|
-| 02.     | [Python for Data Science, AI & Development]| | 
-| 03.     | [Python Project for Data Engineering]||
-| 04.     | [Introduction to Relational Databases (RDBMS)]| |
-| 05.     | [Databases and SQL for Data Science with Python]| | 
-| 06.     | [Hands-on Introduction to Linux Commands and Shell Scripting]|
-| 07.     | [Relational Database Administration (DBA)]| |
-| 08.     | [ETL and Data Pipelines with Shell, Airflow and Kafka]| |
-| 09.     | [Getting Started with Data Warehousing and BI Analytics]| |
+| 02.     | [Python for Data Science, AI & Development]|✅ | 
+| 03.     | [Python Project for Data Engineering]|✅ |
+| 01.     | [Introduction to Data Engineering]|ongoing| ✅ | 
+| 02.     | [Python for Data Science, AI & Development]|✅  | 
+| 03.     | [Python Project for Data Engineering]|ongoing|
+| 04.     | [Introduction to Relational Databases (RDBMS)]|✅  |
+| 05.     | [Databases and SQL for Data Science with Python]|✅  | 
+| 06.     | [Hands-on Introduction to Linux Commands and Shell Scripting]| |
+| 07.     | [Relational Database Administration (DBA)]|✅ |
+| 08.     | [ETL and Data Pipelines with Shell, Airflow and Kafka]|ongoing |
+| 09.     | [Getting Started with Data Warehousing and BI Analytics]|ongoing |
 | 10.     | [Introduction to NoSQL Databases]| |
 | 11.     | [Introduction to Big Data with Spark and Hadoop]| |
 | 12.     | [Data Engineering and Machine Learning using Spark]| |
